@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working a lot on React.
 - 🌱 I am also learning other Programming Languages.
 - 🤔 I always seek help when learning new things.
-- 📫 You can contact me here: [Matias Barreto - LinkedIn]([http://github.com](https://www.linkedin.com/in/matias-gabriel-barreto-061685108/))
+- 📫 You can contact me here: [Matias Barreto - LinkedIn](https://www.linkedin.com/in/matias-gabriel-barreto-061685108/)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
